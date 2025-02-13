@@ -1,0 +1,38 @@
+
+
+    
+ 
+    .items {
+        display: flex;
+        justify-content: center; /* Center horizontally */
+        align-items: center; /* Center vertically */
+      
+      }
+      
+      .items ul {
+        display: flex;
+        gap: 30px; /* Space between items */
+        list-style: none;
+        padding: 0;
+        margin: 0;
+      }
+      
+      .items ul li a {
+        text-decoration: none;
+        font-size: 18px;
+        font-weight: bold;
+        color: black;
+        transition: color 0.3s ease;
+      }
+      
+      .items ul li a:hover {
+        color: red; /* Change color on hover */
+      }
+      
+  .searchbar{
+   border-top:none ;
+   border-left: none;
+   border-right: none;
+    margin-left:500px ;
+    margin-right: 0px;
+  }

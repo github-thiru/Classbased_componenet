@@ -1,0 +1,11 @@
+
+
+.banner{
+    margin-top: 50px;
+    border: 1px solid black;
+    text-align: center;
+    background-color: rgb(187, 52, 74);
+    color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 20px 150px 0px 150px;
+}
